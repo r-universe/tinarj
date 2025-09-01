@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "spinebil"]
 	path = spinebil
-	url = https://github.com/cran/spinebil
+	url = https://github.com/tinarj/spinebil
